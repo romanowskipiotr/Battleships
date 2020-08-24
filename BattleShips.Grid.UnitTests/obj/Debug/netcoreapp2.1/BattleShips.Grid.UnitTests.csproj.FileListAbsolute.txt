@@ -1,0 +1,15 @@
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\bin\Debug\netcoreapp2.1\BattleShips.Grid.UnitTests.deps.json
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\bin\Debug\netcoreapp2.1\BattleShips.Grid.UnitTests.runtimeconfig.json
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\bin\Debug\netcoreapp2.1\BattleShips.Grid.UnitTests.runtimeconfig.dev.json
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\bin\Debug\netcoreapp2.1\BattleShips.Grid.UnitTests.dll
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\bin\Debug\netcoreapp2.1\BattleShips.Grid.UnitTests.pdb
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\obj\Debug\netcoreapp2.1\BattleShips.Grid.UnitTests.csprojAssemblyReference.cache
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\obj\Debug\netcoreapp2.1\BattleShips.Grid.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\obj\Debug\netcoreapp2.1\BattleShips.Grid.UnitTests.AssemblyInfoInputs.cache
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\obj\Debug\netcoreapp2.1\BattleShips.Grid.UnitTests.AssemblyInfo.cs
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\obj\Debug\netcoreapp2.1\BattleShips.Grid.UnitTests.dll
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid.UnitTests\obj\Debug\netcoreapp2.1\BattleShips.Grid.UnitTests.pdb

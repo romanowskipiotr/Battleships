@@ -1,0 +1,8 @@
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\bin\Debug\netcoreapp2.1\BattleShips.Game.deps.json
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\bin\Debug\netcoreapp2.1\BattleShips.Game.dll
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\obj\Debug\netcoreapp2.1\BattleShips.Game.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\obj\Debug\netcoreapp2.1\BattleShips.Game.AssemblyInfoInputs.cache
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\obj\Debug\netcoreapp2.1\BattleShips.Game.AssemblyInfo.cs
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\bin\Debug\netcoreapp2.1\BattleShips.Game.pdb
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\obj\Debug\netcoreapp2.1\BattleShips.Game.dll
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\obj\Debug\netcoreapp2.1\BattleShips.Game.pdb

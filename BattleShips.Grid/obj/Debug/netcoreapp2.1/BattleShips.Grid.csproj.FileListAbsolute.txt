@@ -1,0 +1,9 @@
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\bin\Debug\netcoreapp2.1\BattleShips.Grid.deps.json
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\bin\Debug\netcoreapp2.1\BattleShips.Grid.dll
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\bin\Debug\netcoreapp2.1\BattleShips.Grid.pdb
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\obj\Debug\netcoreapp2.1\BattleShips.Grid.csprojAssemblyReference.cache
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\obj\Debug\netcoreapp2.1\BattleShips.Grid.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\obj\Debug\netcoreapp2.1\BattleShips.Grid.AssemblyInfoInputs.cache
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\obj\Debug\netcoreapp2.1\BattleShips.Grid.AssemblyInfo.cs
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\obj\Debug\netcoreapp2.1\BattleShips.Grid.dll
+C:\Users\roman\Desktop\BattleShip\BattleShip\BattleShips.Grid\obj\Debug\netcoreapp2.1\BattleShips.Grid.pdb
