@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BattleShips.Grid\BattleShips.Game.csproj" />
+    <ProjectReference Include="..\BattleShips.Game\BattleShips.Game.csproj" />
   </ItemGroup>
 
 </Project>

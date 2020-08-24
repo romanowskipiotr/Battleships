@@ -66,6 +66,7 @@ namespace BattleShips.App
 
         private static void ShipShunk(object sender, IShip ship)
         {
+            _viewAdapter.MarkHit(_lastShotPointRow, _lastShotPointColumn);
             Console.WriteLine($"Ship {ship.Type} shunk!");
         }
     }
